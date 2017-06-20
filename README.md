@@ -7,6 +7,7 @@ Research work done during Master's program and internships
 Description: Co author for "Context-Aware User Interfaces for Intelligent Emergency Applications" 
 
 Link: https://www.springerprofessional.de/context-aware-user-interfaces-for-intelligent-emergency-applicat/12337780
+
 Link: https://www.amazon.com/gp/search?index=books&linkCode=qs&keywords=9783319578378
 
 
